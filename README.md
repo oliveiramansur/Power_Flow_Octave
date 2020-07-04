@@ -16,4 +16,4 @@ BUS: % nd   V    Ang.    Pg      Qg      PL      QL      Gs       jBs    Type   
 LINE: % Bus.From   Bus.To    R pu    X pu      Bs pu      Type      Fase shifting angle     
       % (1)         (2)      (3)     (4)        (5)        (6)             (7)     
       
- obs: type 0=LT; type1= Trafo
+ obs: type 0=LT; type1= Trafo.
